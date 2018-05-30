@@ -12,7 +12,7 @@ Welcome to terraform-agility2018's documentation!
 
    all-about-me.rst
    intro*
-   class*/class*
+   class/class*
    examples
    markdown
 
