@@ -11,7 +11,7 @@ Welcome to terraform-agility2018's documentation!
    :caption: Contents:
 
    all-about-me.rst
-   intro*
+   intro.rst
    class/class*
    examples
    markdown
