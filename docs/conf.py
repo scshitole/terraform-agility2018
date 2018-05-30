@@ -15,8 +15,6 @@
 # import os
 # import sys
 # sys.path.insert(0, os.path.abspath('.'))
-
-
 # -- Project information -----------------------------------------------------
 
 project = u'terraform-agility2018'
@@ -98,6 +96,7 @@ html_static_path = ['_static']
 # html_sidebars = {}
 
 
+
 # -- Options for HTMLHelp output ---------------------------------------------
 
 # Output file base name for HTML help builder.
@@ -153,3 +152,4 @@ texinfo_documents = [
      author, 'terraform-agility2018', 'One line description of project.',
      'Miscellaneous'),
 ]
+
