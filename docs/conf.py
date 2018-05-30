@@ -14,7 +14,7 @@
 #
 # import os
 # import sys
-#import sphinx_rtd_theme
+# import sphinx_rtd_theme
 # sys.path.insert(0, os.path.abspath('.'))
 # -- Project information -----------------------------------------------------
 
@@ -25,7 +25,7 @@ author = u'Sanjay Shitole'
 # The short X.Y version
 version = u''
 # The full version, including alpha/beta/rc tags
-release = u'1.0'
+release = '1.0'
 
 
 # -- General configuration ---------------------------------------------------
@@ -38,11 +38,6 @@ release = u'1.0'
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 extensions = [
-    'sphinx.ext.todo',
-    'sphinx.ext.mathjax',
-    'sphinx.ext.ifconfig',
-    'sphinx.ext.extlinks',
-    'sphinx.ext.graphviz',
 ]
 
 # Add any paths that contain templates here, relative to this directory.
@@ -78,7 +73,7 @@ pygments_style = 'sphinx'
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
 #
-html_theme = 'alabaster'
+html_theme = 'default'
 
 # Theme options are theme-specific and customize the look and feel of a theme
 # further.  For a list of options available for each theme, see the
@@ -101,6 +96,8 @@ html_static_path = ['_static']
 #
 # html_sidebars = {}
 
+# Output file base name for HTML help builder.
+htmlhelp_basename = 'Dontbeafraidtocommitdoc'
 
 
 # -- Options for HTMLHelp output ---------------------------------------------
