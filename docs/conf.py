@@ -14,6 +14,7 @@
 #
 # import os
 # import sys
+import sphinx_rtd_theme
 # sys.path.insert(0, os.path.abspath('.'))
 # -- Project information -----------------------------------------------------
 
@@ -37,6 +38,13 @@ release = u'1.0'
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 extensions = [
+    'sphinx.ext.todo',
+    'sphinx.ext.mathjax',
+    'sphinx.ext.ifconfig',
+    'sphinx.ext.extlinks',
+    'sphinx.ext.graphviz',
+    'sphinxcontrib.nwdiag',
+    'sphinxcontrib.blockdiag'
 ]
 
 # Add any paths that contain templates here, relative to this directory.
@@ -152,4 +160,25 @@ texinfo_documents = [
      author, 'terraform-agility2018', 'One line description of project.',
      'Miscellaneous'),
 ]
+# -- Options for todo extension ----------------------------------------------
+
+# If true, `todo` and `todoList` produce output, else they produce nothing.
+todo_include_todos = True
+
+# -- Options for Epub output -------------------------------------------------
+
+# Bibliographic Dublin Core info.
+epub_title = project
+epub_author = author
+epub_publisher = author
+epub_copyright = copyright
+
+# The unique identifier of the text. This can be a ISBN number
+# or the project homepage.
+#
+# epub_identifier = ''
+
+# A unique identification for the text.
+#
+# epub_uid = ''
 
