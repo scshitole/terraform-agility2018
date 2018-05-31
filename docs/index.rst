@@ -3,8 +3,8 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to terraform-agility2018's documentation!
-=================================================
+F5 Terraform Agility 2018 Lab
+=============================
 
 .. toctree::
    :maxdepth: 2
@@ -13,9 +13,7 @@ Welcome to terraform-agility2018's documentation!
    lab-overview.rst
    intro.rst
    class/class*
-   examples
-   markdown
-
+   
 
 
 Indices and tables
