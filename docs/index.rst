@@ -12,7 +12,7 @@ F5 Terraform Agility 2018 Lab
 
    intro.rst
    lab-overview.rst
-   class/class1.rst
+   class/class*
 
 
 
