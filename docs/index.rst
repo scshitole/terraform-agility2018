@@ -10,10 +10,10 @@ F5 Terraform Agility 2018 Lab
    :maxdepth: 2
    :caption: Contents:
 
-   lab-overview.rst
    intro.rst
-   class/class*
-   
+   lab-overview.rst
+   class/class1.rst
+
 
 
 Indices and tables
