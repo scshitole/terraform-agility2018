@@ -10,7 +10,7 @@ Welcome to terraform-agility2018's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-   all-about-me.rst
+   lab-overview.rst
    intro.rst
    class/class*
    examples
