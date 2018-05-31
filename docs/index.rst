@@ -20,6 +20,7 @@ F5 Terraform Agility 2018 Lab
    class/class6.rst
    class/class7.rst
    class/class8.rst
+   class/class9.rst
 
 
 

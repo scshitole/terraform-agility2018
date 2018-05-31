@@ -1,5 +1,5 @@
-Terraform Installation
----------------
+Deploy iApp using iApp Resource
+-------------------------------
 
 .. TODO:: Complete getting started instructions
 

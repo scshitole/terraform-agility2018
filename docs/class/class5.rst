@@ -1,5 +1,5 @@
-Terraform Installation
----------------
+Destroy Configuration
+---------------------
 
 .. TODO:: Complete getting started instructions
 

@@ -1,5 +1,5 @@
-Terraform Installation
-----------------------
+Create Simple VS, Pool etc using resources
+------------------------------------------
 
 .. TODO:: Complete getting started instructions
 
